@@ -43,25 +43,25 @@ The application uses a multi-agent system built with CrewAI:
    cd emotion-tracker-agent
 
 2. Install dependencies:
-``bashpip install -r requirements.txt
+bashpip install -r requirements.txt
 
 3. Set up your environment variables in a .env file:
-``GEMINI_API_KEY=your_gemini_api_key
-MODEL=gemini-1.5-flash
+- GEMINI_API_KEY=your_gemini_api_key
+- MODEL=gemini-1.5-flash
 
 Choose your input method:
 
-Upload Audio: Upload a WAV file recording
-Sample Audio Files: Use provided sample audio recordings
-Text Input: Enter a text-based journal entry
+- Upload Audio: Upload a WAV file recording
+- Sample Audio Files: Use provided sample audio recordings
+- Text Input: Enter a text-based journal entry
 
 
 Click "Analyze Mood" to process your input
 View your results:
 
-Detected mood with confidence level
-Date of the entry
-Personalized reflections to explore your emotions
+- Detected mood with confidence level
+- Date of the entry
+- Personalized reflections to explore your emotions
 
 
 
