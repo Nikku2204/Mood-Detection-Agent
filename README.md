@@ -77,8 +77,8 @@ UI displays the mood analysis and expandable reflection sections
 
 ## Acknowledgements
 
-CrewAI
-Whisper
-Streamlit
-Gemini API
+- CrewAI
+- Whisper
+- Streamlit
+- Gemini API
 
