@@ -43,10 +43,10 @@ The application uses a multi-agent system built with CrewAI:
    cd emotion-tracker-agent
 
 2. Install dependencies:
-bashpip install -r requirements.txt
+``bashpip install -r requirements.txt
 
 3. Set up your environment variables in a .env file:
-GEMINI_API_KEY=your_gemini_api_key
+``GEMINI_API_KEY=your_gemini_api_key
 MODEL=gemini-1.5-flash
 
 Choose your input method:
