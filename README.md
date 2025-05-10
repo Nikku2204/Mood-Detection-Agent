@@ -4,7 +4,7 @@
 
 An intelligent multi-agent AI system that analyzes emotions from journal entries or audio recordings, and provides personalized reflections to help users understand their emotional well-being.
 
-## [Watch Demo Video](INSERT_YOUR_GOOGLE_DRIVE_LINK_HERE)
+## [Watch Demo Video]( https://drive.google.com/file/d/1LoFhXcSpVqzKzgP6D1nPuLXXDEHGQ1Ni/view)
 
 ## Overview
 
@@ -82,4 +82,3 @@ Whisper
 Streamlit
 Gemini API
 
-Watch Demo - https://drive.google.com/file/d/1LoFhXcSpVqzKzgP6D1nPuLXXDEHGQ1Ni/view
