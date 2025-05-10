@@ -76,7 +76,7 @@ UI displays the mood analysis and expandable reflection sections
 
 ![Example Output](entry.jpg)
 
-
+![reflection Output](reflection.jpg)
 ## Acknowledgements
 
 - CrewAI
