@@ -74,6 +74,8 @@ Reflection Coach Agent generates questions to explore the anxiety
 Journal Logger Agent formats everything into a structured entry
 UI displays the mood analysis and expandable reflection sections
 
+![Example Output](entry.jpg)
+
 
 ## Acknowledgements
 
