@@ -67,12 +67,12 @@ View your results:
 
 ## Example Workflow
 
-User uploads an audio recording about feeling anxious about a presentation
-Whisper transcribes the audio to text
-Mood Detector Agent analyzes the text and detects anxiety
-Reflection Coach Agent generates questions to explore the anxiety
-Journal Logger Agent formats everything into a structured entry
-UI displays the mood analysis and expandable reflection sections
+1. User uploads an audio recording about feeling anxious about a presentation
+2. Whisper transcribes the audio to text
+3. Mood Detector Agent analyzes the text and detects anxiety
+4. Reflection Coach Agent generates questions to explore the anxiety
+5. Journal Logger Agent formats everything into a structured entry
+6. UI displays the mood analysis and expandable reflection sections
 
 ![Example Output](entry.jpg)
 
